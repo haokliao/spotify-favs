@@ -5,8 +5,8 @@ done with spotify api and react
 ## to do
 - [x] wireframing [figma link](https://www.figma.com/file/Gvxpk14hMJXm0YUcuq0QMu/spotify-favs?node-id=2%3A21)
 - [x] set up linter
-- [ ] header
-- [ ] carousel
+- [ ] featured artists
+  - [x] carousel set up
 - [ ] set up for backend for API calls
 - [ ] body
 - [ ] footer
