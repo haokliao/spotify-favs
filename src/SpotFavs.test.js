@@ -1,8 +1,9 @@
+import React from 'react';
 import { render, screen } from '@testing-library/react';
-import App from './App';
+import SpotFavs from './SpotFavs';
 
 test('renders learn react link', () => {
-  render(<App />);
+  render(<SpotFavs />);
   const linkElement = screen.getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
 });
