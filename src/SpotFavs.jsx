@@ -1,16 +1,13 @@
 import React from 'react';
 import './SpotFavs.css';
 import FeaturedArtists from './components/FeaturedArtists';
+import RecentlyListenedGrid from './components/RecentlyListenedGrid';
 
-function SpotFavs() {
+export default function SpotFavs() {
   return (
     <>
       <FeaturedArtists />
-      <div className="work">
-        can i get a poggers in the chat
-      </div>
+      <RecentlyListenedGrid />
     </>
   );
 }
-
-export default SpotFavs;

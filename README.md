@@ -7,10 +7,11 @@ done with spotify api and react
 - [x] set up linter
 - [ ] featured artists
   - [x] carousel set up
+  - [ ] body/grid set up
+  - [ ] image text set up
 - [ ] set up for backend for API calls
-- [ ] body
-- [ ] footer
-
+  - [ ] carousel loads with correct data
+  - [ ] grid loads with correct data
 
 ## Available Scripts
 
