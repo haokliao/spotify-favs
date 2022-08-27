@@ -8,10 +8,11 @@ header{
 
 .carousel{
   background-color: #F8A528;
-  padding: 5em 0 7em 0;
+  padding-top: 5em ;
+  padding-bottom: 1em;
 }
 
-img{         
+.carousel img{         
   width: 30vw;
   height: 30vw;
   margin: 1em 1em;
@@ -42,7 +43,7 @@ img{
 
 .flickity-enabled.is-draggable {
   -webkit-tap-highlight-color: transparent;
-  tap-highlight-color: transparent;
+  -tap-highlight-color: transparent;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -102,7 +103,7 @@ img{
   height: 44px;
   border-radius: 50%;
   /* vertically center */
-  transform: translateY(-50%);
+  /* transform: translateY(-50%); */
 }
 
 .flickity-prev-next-button.previous {

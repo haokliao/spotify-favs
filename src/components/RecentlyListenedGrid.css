@@ -1,0 +1,12 @@
+
+.container{
+  background-color: #F8A528;
+  padding: 5em 0 2.5em 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.container img{      
+  max-width: 25%;   
+}
