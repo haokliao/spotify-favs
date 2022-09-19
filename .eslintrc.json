@@ -5,7 +5,7 @@
     },
     "extends": [
         "plugin:react/recommended",
-        "airbnb"
+        "wesbos"
     ],
     "overrides": [
     ],
@@ -17,5 +17,12 @@
         "react"
     ],
     "rules": {
-    }
+      "react/react-in-jsx-scope": "off",
+      "react/jsx-props-no-spreading": 0
+
+    },
+  "settings": {
+    "import/ignore": ["react-native"]
+  }
+  
 }

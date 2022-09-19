@@ -1,21 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
-
-header{
-  background-color: #F8A528;
-  padding: .5em .5em;
-  color: white;
-}
-
 .carousel{
   background-color: #F8A528;
   padding-top: 5em ;
   padding-bottom: 1em;
 }
 
-.carousel img{         
-  width: 30vw;
-  height: 30vw;
+.orange {         
   margin: 1em 1em;
+  width:"30vw";
+  height:"30vw";
 }
 
 
@@ -160,4 +152,4 @@ header{
 
 .flickity-page-dots .dot.is-selected {
   opacity: 1;
-}
+} 
